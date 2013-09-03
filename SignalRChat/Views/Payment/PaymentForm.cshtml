@@ -1,0 +1,22 @@
+﻿@model SignalRChat.Models.PaymentModel
+
+@{
+    ViewBag.Title = "Payment";
+}
+
+<h2>Credit card payment</h2>
+
+<div class="container">
+     @using (Html.BeginForm("SubmitPayment", "Payment", FormMethod.Post))
+     {
+         @Html.TextBoxFor(model => model.CreditCardNum, new { @id = "creditCardNum" })
+         @*@Html.HiddenFor(model => model.SignalRGroupId, new { @id = "hiddenSignalRGroupId"})*@
+         
+          <div>
+                <input type="submit" id="btnPay" name="" value="Pay"/>
+            </div>
+     }
+
+    <ul id="paymentResults">
+    </ul>
+</div>

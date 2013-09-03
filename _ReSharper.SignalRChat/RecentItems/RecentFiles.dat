@@ -1,0 +1,44 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:AccountController.cs" caret="0" fromTop="0" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Home/f:About.cshtml" caret="0" fromTop="0" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:App_Start/f:RouteConfig.cs" caret="162" fromTop="7" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Hubs/f:ChatHub.cs" caret="597" fromTop="23" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:HomeController.cs" caret="837" fromTop="31" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/f:Global.asax.cs" caret="612" fromTop="22" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:PaymentTimer.cs" caret="827" fromTop="23" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Home/f:Chat.cshtml" caret="0" fromTop="0" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Hubs/f:LoggingHubModule.cs" caret="0" fromTop="0" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Scripts/f:_references.js" caret="0" fromTop="0" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/f:Web.config" caret="0" fromTop="0" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Payment/f:PaymentForm.cshtml" caret="405" fromTop="12" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Shared/f:_Layout.cshtml" caret="2403" fromTop="35" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Models/f:PaymentModel.cs" caret="266" fromTop="10" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Scripts/d:Payment/f:paymentWithSignalR.js" caret="260" fromTop="8" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Shared/f:PaymentGroup.cshtml" caret="243" fromTop="4" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:CommonController.cs" caret="671" fromTop="21" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/f:Helpers.cs" caret="339" fromTop="10" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:PaymentController.cs" caret="579" fromTop="25" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Hubs/f:PaymentHub.cs" caret="99" fromTop="3" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Home/f:About.cshtml" caret="186" fromTop="11" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:HomeController.cs" caret="701" fromTop="28" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Hubs/f:ChatHub.cs" caret="344" fromTop="15" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Hubs/f:LoggingHubModule.cs" caret="2355" fromTop="25" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Home/f:Chat.cshtml" caret="2003" fromTop="38" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:App_Start/f:RouteConfig.cs" caret="531" fromTop="18" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/f:Global.asax.cs" caret="612" fromTop="22" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:PaymentTimer.cs" caret="838" fromTop="24" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Payment/f:PaymentForm.cshtml" caret="405" fromTop="12" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Shared/f:_Layout.cshtml" caret="2403" fromTop="35" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Models/f:PaymentModel.cs" caret="278" fromTop="10" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/f:Helpers.cs" caret="339" fromTop="10" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:PaymentController.cs" caret="727" fromTop="27" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Views/d:Shared/f:PaymentGroup.cshtml" caret="243" fromTop="4" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Controllers/f:CommonController.cs" caret="654" fromTop="19" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Scripts/d:Payment/f:paymentWithSignalR.js" caret="260" fromTop="8" />
+    <File id="445DE08E-574F-4AF1-8B12-AC6B9845CBD8/d:Hubs/f:PaymentHub.cs" caret="1036" fromTop="31" />
+  </RecentEdits>
+</RecentFiles>

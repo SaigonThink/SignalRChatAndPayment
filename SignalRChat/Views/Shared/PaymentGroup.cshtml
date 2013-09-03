@@ -1,0 +1,5 @@
+﻿@model SignalRChat.Models.PaymentModel
+
+@Html.HiddenFor(model => model.SignalRGroupId, new { id = "hiddenSignalRGroupId"})
+
+@Html.HiddenFor(model => model.IsPaymentCurrentlyBeingProcessed, new { id = "hiddenIsPaymentCurrentlyBeingProcessed"})
